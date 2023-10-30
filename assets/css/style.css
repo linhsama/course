@@ -110,6 +110,7 @@ img:hover {
   cursor: pointer;
   transition: 0.5s;
 }
+
 .timeline ul li span {
   display: inline-block;
   background-color: #1685b8;
@@ -156,6 +157,17 @@ img:hover {
   body {
     width: 100%;
     display: block !important;
+  }
+  .card,
+  ul,
+  li,
+  ol{
+    font-size: 28px !important;
+  }
+  span,
+  .content h3
+  ,.content p {
+    font-size: 24px !important;
   }
 }
 /* noi-dung-khoa-hoc */
