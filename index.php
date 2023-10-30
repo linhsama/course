@@ -34,7 +34,7 @@
                     <div class="card-body text-center">
                         <div class="row">
                             <div class="col-md-5 col-sm-12 col-12 mb-2">
-                                <img data-src="assets/images/muc-tieu-khoa-hoc/1.png" class="lazy img-fluid" alt="image">
+                                <img src="assets/images/muc-tieu-khoa-hoc/1.png" class="lazy img-fluid" alt="image">
                             </div>
                             <div class="col-md-7 col-sm-12 col-12 mb-2">
                                 <ul>Mục tiêu của khóa học</ul>
@@ -69,14 +69,14 @@
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-12 mb-2">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/nguoi-huong-dan/1.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/nguoi-huong-dan/1.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Thầy Lâm Tấn Phương</div>
                                 <small class="text-desc">Giảng viên Trường Đại học Tây Đô</small>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-12 mb-2">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/nguoi-huong-dan/2.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/nguoi-huong-dan/2.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Nhóm cộng tác viên</div>
                                 <small class="text-desc">Nhóm đồng hành và hỗ trợ kỹ thuật.</small>
                             </div>
@@ -97,7 +97,7 @@
                     <div class="col-md-4 col-sm-6 col-12 mb-2">
                         <div class="card">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/diem-noi-bat/1.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/diem-noi-bat/1.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Học lập trình thông qua các dự án thực tế</div>
                                 <small class="text-desc">Rèn luyện tư duy lập trình qua các dự án thực tế.</small>
                             </div>
@@ -106,7 +106,7 @@
                     <div class="col-md-4 col-sm-6 col-12 mb-2">
                         <div class="card">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/diem-noi-bat/2.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/diem-noi-bat/2.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Học cách tư duy phân tích và giải quyết vấn đề</div>
                                 <small class="text-desc">Rèn luyện tư duy phân tích và giải quyết vấn đề.</small>
                             </div>
@@ -115,7 +115,7 @@
                     <div class="col-md-4 col-sm-6 col-12 mb-2">
                         <div class="card">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/diem-noi-bat/3.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/diem-noi-bat/3.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Học về thiết kế cơ sở dữ liệu Database</div>
                                 <small class="text-desc">Các cách thiết kế database chuẩn và phá cách.</small>
                             </div>
@@ -124,7 +124,7 @@
                     <div class="col-md-4 col-sm-6 col-12 mb-2">
                         <div class="card">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/diem-noi-bat/4.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/diem-noi-bat/4.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Học về lập trình Web Frontend</div>
                                 <small class="text-desc">Kỹ năng lập trình Frontend cơ bản và nâng cao</small>
                             </div>
@@ -133,7 +133,7 @@
                     <div class="col-md-4 col-sm-6 col-12 mb-2">
                         <div class="card">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/diem-noi-bat/5.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/diem-noi-bat/5.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Học về lập trình Web Backend</div>
                                 <small class="text-desc">Kỹ năng lập trình web với ngôn ngữ PHP.</small>
                             </div>
@@ -142,7 +142,7 @@
                     <div class="col-md-4 col-sm-6 col-12 mb-2">
                         <div class="card">
                             <div class="card-body text-center">
-                                <img data-src="assets/images/diem-noi-bat/6.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
+                                <img src="assets/images/diem-noi-bat/6.png" class="lazy mx-auto mb-2" width="180" alt="knowledge-base-image">
                                 <div class="text-title">Được hướng dẫn và có tài liệu</div>
                                 <small class="text-desc">Được hướng dẫn và tài liệu soạn dựa trên các TASK.</small>
                             </div>
@@ -262,7 +262,7 @@
                     <div class="card-body text-center">
                         <div class="row">
                             <div class="col-md-5 col-sm-12 col-12 mb-2">
-                                <img data-src="assets/images/loi-ich-khoa-hoc/1.png" class="lazy img-fluid" alt="image">
+                                <img src="assets/images/loi-ich-khoa-hoc/1.png" class="lazy img-fluid" alt="image">
                             </div>
                             <div class="col-md-7 col-sm-12 col-12 mb-2">
                                 <ul>Sản phẩm cuối khóa</ul>
@@ -311,14 +311,14 @@
                                     <ol>- Số tài khoản: </ol>
                                     <ol>- Nội dung: </ol>
                                     <br>
-                                    <img data-src="assets/images/dang-ky-ngay/1.png" class="lazy mx-auto mb-2" width="250" />
+                                    <img src="assets/images/dang-ky-ngay/1.png" class="lazy mx-auto mb-2" width="250" />
                                 </ul>
                                 <ul>
                                     <li>Bước 2: Nhắn tin vào Zalo quản lý</li>
                                     <ol>- Số điện thoại: 0932861905</ol>
                                     <ol>- Nhập lời mời: `Tham gia khóa học K1 - Nguyễn Văn A - 0947XXXXXX`</ol>
                                     <br>
-                                    <img data-src="assets/images/dang-ky-ngay/2.png" class="lazy mx-auto mb-2" width="200" />
+                                    <img src="assets/images/dang-ky-ngay/2.png" class="lazy mx-auto mb-2" width="200" />
                                 </ul>
                                 <?php
                                 // $so_tai_khoan = "100878676169";
@@ -368,7 +368,7 @@
 
 
     <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>
-    <script>
+    <!-- <script>
         const imageElements = document.querySelectorAll('.lazy');
         const observer = new IntersectionObserver((entries, observer) => {
             entries.forEach((entry) => {
@@ -381,7 +381,7 @@
         imageElements.forEach((image) => {
             observer.observe(image);
         })
-    </script>
+    </script> -->
 </body>
 
 </html>
